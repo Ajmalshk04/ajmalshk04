@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hey there, I'm Ajmal Shaikh!
+# 👋 Hey World, I'm Ajmal Shaikh!
 
 ### 🚀 Full Stack Developer | MERN Stack Expert | Tech Innovator
 
