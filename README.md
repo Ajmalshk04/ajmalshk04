@@ -1,224 +1,330 @@
 <div align="center">
-  
-# 👋 Hey World, I'm Ajmal Shaikh!
+# 🚀 Hellow World! Welcome to My Digital Universe
 
-### 🚀 Full Stack Developer | MERN Stack Expert | Tech Innovator
-
-*Passionate about building scalable solutions that transform businesses*
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;MERN+Stack+Expert;Tech+Innovator;Problem+Solver;UI%2FUX+Enthusiast&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=00D9FF&background=00000000" alt="Typing SVG" />
+</div>
 
 <br>
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AJ_cK04)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajmalshaikh04/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ajmal_shk)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikhajmal50@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ajmalshaikh04.github.io/portfolio-v1/)
+<!-- Dynamic Badges -->
+<div align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/Ajmal%20Shaikh-FF6B6B?style=for-the-badge&logo=person&logoColor=white" alt="Name"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Mumbai-4ECDC4?style=for-the-badge&logo=location&logoColor=white" alt="Location"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/2%2B%20Years-45B7D1?style=for-the-badge&logo=calendar&logoColor=white" alt="Experience"/>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=ajmalshaikh04&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+<br>
+
+<!-- Animated Social Links -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/ajmalshaikh04/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:shaikhajmal50@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail"/>
+  </a>
+  <a href="https://twitter.com/AJ_cK04" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
+  </a>
+  <a href="https://instagram.com/ajmal_shk" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+  </a>
+  <a href="https://ajmalshaikh04.github.io/portfolio-v1/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF7F50?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF7F50" alt="Portfolio"/>
+  </a>
+</div>
+
+<br>
+
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ajmalshaikh04&style=for-the-badge&color=gradient&label=Profile+Views" alt="Profile Views"/>
+</div>
+
+<img width="100%" height="3" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png">
 
 </div>
 
----
-
 ## 🎯 About Me
 
-```javascript
-const ajmal = {
-    role: "Full Stack Developer",
-    experience: "2+ years",
-    location: "Mumbai, India",
-    education: "B.E. Computer Engineering",
-    currentProject: "NumberWale.com - E-commerce Platform",
-    expertise: ["MERN Stack", "API Development", "System Design"],
-    passion: "Building scalable solutions with clean code",
-    achievements: "1+ lakh products managed, Multiple successful deployments"
+```typescript
+interface Developer {
+  name: string;
+  role: string;
+  location: string;
+  experience: string;
+  currentProject: string;
+  languages: string[];
+  architecture: string[];
+  specialties: string[];
+  currentlyLearning: string;
+  funFact: string;
+}
+
+const ajmal: Developer = {
+  name: "Ajmal Shaikh",
+  role: "Full Stack Developer",
+  location: "Mumbai, India 🇮🇳",
+  experience: "2+ years crafting digital experiences",
+  currentProject: "NumberWale.com - E-commerce Platform with 1L+ products",
+  languages: ["JavaScript", "TypeScript", "Python", "C"],
+  architecture: ["MERN Stack", "Microservices", "RESTful APIs", "GraphQL"],
+  specialties: ["Payment Integration", "Real-time Systems", "Performance Optimization"],
+  currentlyLearning: "Cloud Architecture & DevOps",
+  funFact: "I debug with console.log and I'm proud of it! 😅"
 };
 ```
 
-## 💼 Professional Experience
+## 💼 Professional Journey
 
-### 🔥 **NumberWale.com** - *Full Stack Developer (Solo)*
-**July 2024 - Present** | Mumbai, India
+### 🚀 **NumberWale.com** - *Solo Full Stack Developer*
+<div align="center">
+  <img src="https://img.shields.io/badge/July%202024-Present-00D9FF?style=for-the-badge&logo=calendar&logoColor=white"/>
+</div>
 
-- 🛒 **E-commerce Platform**: Built complete telecom numbers marketplace with **1+ lakh products**
-- 🔄 **State Management**: Implemented **Redux** with **TanStack Query** for optimal data fetching
-- 💳 **Payment Integration**: **Razorpay** & **PhonePe** gateways with webhook handling
-- 📊 **Admin Dashboard**: Real-time analytics, order tracking, inventory management
-- 🚀 **Deployment**: Scalable **VPS** deployment with **Nginx** reverse proxy
-- 🔐 **Security**: JWT authentication with refresh token rotation
+```javascript
+const achievements = {
+  platform: "E-commerce for Premium Telecom Numbers",
+  scale: "1+ Lakh Products Managed",
+  stack: "MERN + Redux + TanStack Query",
+  payments: "Razorpay & PhonePe Integration",
+  features: ["Real-time Analytics", "Automated Refunds", "Admin CRM"],
+  deployment: "VPS with Nginx + SSL + CI/CD",
+  integrations: ["OTP via Gallabox", "Email Automation", "SMS Alerts"]
+};
+```
 
-### 🏢 **Adiya Business Solutions** - *MERN Stack Junior Developer*
-**February 2024 - June 2024**
+### 🏢 **Adiya Business Solutions** - *MERN Stack Developer*
+<div align="center">
+  <img src="https://img.shields.io/badge/Feb%202024-June%202024-4ECDC4?style=for-the-badge&logo=calendar&logoColor=white"/>
+</div>
 
-- 🔧 **Full-Stack Development**: Built applications using **MERN stack**
-- 🗄️ **Database Design**: MongoDB with proper indexing and relationships
-- 🔒 **Authentication**: JWT, bcrypt, role-based access control
+- 🔧 **Full-Stack Development**: Built scalable applications with MERN stack
+- 🗄️ **Database Architecture**: Advanced MongoDB with aggregation pipelines
+- 🧪 **Quality Assurance**: Comprehensive testing with Jest & Cypress
 - ⚡ **Performance**: Database optimization and caching strategies
-- 🧪 **Testing**: Unit & integration testing with **Jest** and **Cypress**
 
 ### 📱 **QuickMobile** - *Full Stack Developer*
-**August 2022 - March 2023** | Remote
+<div align="center">
+  <img src="https://img.shields.io/badge/Aug%202022-Mar%202023-FF6B6B?style=for-the-badge&logo=calendar&logoColor=white"/>
+</div>
 
-- 🎨 **Frontend**: Responsive React.js applications with modern JavaScript
-- 🔌 **Backend**: RESTful APIs with Node.js, Express.js
-- 🌐 **Integration**: Third-party APIs and cross-browser compatibility
-- 📐 **Design**: Component libraries and responsive design patterns
+- 🎨 **Modern Frontend**: React.js with ES6+ and responsive design
+- 🔌 **API Development**: RESTful services with Express.js
+- 🌐 **Integration**: Third-party services and cross-platform compatibility
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
-### 💻 **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 💻 **Programming Languages**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,html,css&theme=dark" />
+</div>
 
-### 🎨 **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 🎨 **Frontend Universe**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,bootstrap,sass&theme=dark" />
+</div>
 
-### ⚙️ **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+### ⚙️ **Backend Powerhouse**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,nginx&theme=dark" />
+</div>
 
-### 🗄️ **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### 🗄️ **Database & Storage**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,firebase&theme=dark" />
+</div>
 
 ### ☁️ **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,github,git,netlify&theme=dark" />
+</div>
 
 ### 🛠️ **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,jest&theme=dark" />
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔢 **NumberWale.com** - *E-commerce Platform*
-**Tech Stack**: React.js, Node.js, MongoDB, Redux, Razorpay, PhonePe
 
-- 🛒 Complete telecom numbers marketplace with 1+ lakh products
-- 💳 Integrated payment gateways with automated refund processing
-- 📊 Real-time admin dashboard with analytics and inventory management
-- 🔐 Secure authentication with JWT and refresh token rotation
-- 🚀 Deployed on VPS with Nginx reverse proxy and SSL certificates
+<div align="center">
+  <img src="https://img.shields.io/badge/🔥-Live%20Project-FF6B6B?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🚀-1L%2B%20Products-00D9FF?style=for-the-badge&logoColor=white"/>
+</div>
 
-[🔗 Live Demo](https://numberwale.com) | [👨‍💼 Admin Dashboard](https://admin.numberwale.com)
+**Tech Stack**: React.js • Node.js • MongoDB • Redux • Razorpay • PhonePe
 
-### 🔩 **Xofah** - *Fastener B2B Platform*
-**Tech Stack**: React.js, Node.js, Express.js, MongoDB, Redux
+```yaml
+Features:
+  - 🛒 Complete telecom numbers marketplace
+  - 💳 Multi-gateway payment processing
+  - 📊 Real-time admin dashboard
+  - 🔐 JWT authentication with refresh tokens
+  - 📱 Responsive PWA design
+  - 🚀 Scalable VPS deployment
+```
 
-- 🏭 B2B platform connecting clients with suppliers for custom fastener projects
-- 📋 Multi-role system with separate dashboards for users, admins, and suppliers
-- 📊 Project tracking system (Quoted, In Production, Shipped, Cancelled)
-- 🔄 Automated workflow for quotes, approvals, and progress tracking
+<div align="center">
+  <a href="https://numberwale.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐-Live%20Demo-4ECDC4?style=for-the-badge&logoColor=white"/>
+  </a>
+  <a href="https://admin.numberwale.com" target="_blank">
+    <img src="https://img.shields.io/badge/👨‍💼-Admin%20Panel-FF7F50?style=for-the-badge&logoColor=white"/>
+  </a>
+</div>
 
-[🔗 Live Demo](https://xofah.com)
+### 🔩 **Xofah** - *B2B Fastener Platform*
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🏭-B2B%20Platform-45B7D1?style=for-the-badge&logoColor=white"/>
+</div>
+
+**Tech Stack**: React.js • Node.js • Express.js • MongoDB • Redux
+
+```yaml
+Features:
+  - 🤝 Client-Supplier Connection Platform
+  - 📋 Multi-role Dashboard System
+  - 📊 Project Tracking & Analytics
+  - 🔄 Automated Workflow Management
+```
+
+<div align="center">
+  <a href="https://xofah.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐-Live%20Demo-4ECDC4?style=for-the-badge&logoColor=white"/>
+  </a>
+</div>
 
 ### 🛍️ **E-Store** - *MERN E-commerce*
-**Tech Stack**: React.js, Node.js, Express.js, MongoDB, Redux, Material-UI
 
-- 🛒 Full-featured e-commerce application with user and admin panels
-- 🔌 RESTful APIs with seamless frontend integration
-- 💳 Secure payment processing and order management
-- 📱 Responsive design with Material-UI components
+<div align="center">
+  <img src="https://img.shields.io/badge/🛒-E-commerce-FF6B6B?style=for-the-badge&logoColor=white"/>
+</div>
 
-[🔗 Live Demo](https://e-store-demo.com) | [💻 GitHub](https://github.com/ajmalshaikh04/e-store)
+**Tech Stack**: React.js • Node.js • Express.js • MongoDB • Redux • Material-UI
 
-### 👕 **T-Shirt Store Backend** - *API Development*
-**Tech Stack**: Node.js, Express.js, MongoDB, Stripe, Razorpay, Cloudinary
+```yaml
+Features:
+  - 🛒 Full-featured shopping experience
+  - 👥 Dual panel (User & Admin)
+  - 💳 Secure payment processing
+  - 📱 Mobile-responsive design
+```
 
-- 🔒 Secure authentication system with JWT
-- 💳 Multiple payment gateway integration
-- 📤 File upload with Cloudinary integration
-- 📚 Comprehensive API documentation with Swagger
+<div align="center">
+  <a href="https://github.com/ajmalshaikh04/e-store" target="_blank">
+    <img src="https://img.shields.io/badge/💻-GitHub-00D9FF?style=for-the-badge&logoColor=white"/>
+  </a>
+</div>
 
-[💻 GitHub](https://github.com/ajmalshaikh04/tshirt-store) | [📖 API Documentation](https://tshirt-api-docs.com)
+### 👕 **T-Shirt Store API** - *Backend Showcase*
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🔌-API%20Development-45B7D1?style=for-the-badge&logoColor=white"/>
+</div>
+
+**Tech Stack**: Node.js • Express.js • MongoDB • Stripe • Razorpay • Cloudinary
+
+```yaml
+Features:
+  - 🔒 JWT Authentication System
+  - 💳 Multiple Payment Gateways
+  - 📤 File Upload with Cloudinary
+  - 📚 Swagger API Documentation
+```
+
+<div align="center">
+  <a href="https://github.com/ajmalshaikh04/tshirt-store" target="_blank">
+    <img src="https://img.shields.io/badge/💻-GitHub-00D9FF?style=for-the-badge&logoColor=white"/>
+  </a>
+  <a href="https://tshirt-api-docs.com" target="_blank">
+    <img src="https://img.shields.io/badge/📖-API%20Docs-FF7F50?style=for-the-badge&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
 ## 🎓 Education & Certifications
 
-### 🎓 **Education**
-- **Bachelor of Engineering** - Computer Engineering | *Jamia Institute of Engineering and Management Studies* (2019-2023)
-- **Diploma** - Computer Technologies | *Pravin Patil Polytechnic College* (2016-2019)
+### 🎓 **Academic Background**
+```yaml
+Education:
+  - Degree: "Bachelor of Engineering - Computer Engineering"
+    Institution: "Jamia Institute of Engineering & Management"
+    Duration: "2019 - 2023"
+    Location: "Mumbai, India"
+    
+  - Diploma: "Computer Technologies"
+    Institution: "Pravin Patil Polytechnic College"
+    Duration: "2016 - 2019"
+    Location: "Mumbai, India"
+```
 
 ### 🏆 **Professional Certifications**
-- **Full Stack MERN Bootcamp** - Complete development lifecycle
-- **React.js Developer Bootcamp** - Advanced React patterns and hooks
-- **Pro Backend Developer Course** - Scalable system design and APIs
-- **Creative JavaScript Course** - Advanced JavaScript and ES6+ features
-
-[📜 View All Certificates](https://certificates.ajmalshaikh04.com)
-
----
-
 <div align="center">
-
-## 📊 GitHub Analytics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajmalshaikh04&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmalshaikh04&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-## 🔥 Streak Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajmalshaikh04&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://img.shields.io/badge/✅-Full%20Stack%20MERN%20Bootcamp-4ECDC4?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/✅-React.js%20Developer%20Bootcamp-61DAFB?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/✅-Pro%20Backend%20Developer-45B7D1?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/✅-Creative%20JavaScript%20Course-F7DF1E?style=for-the-badge&logoColor=black"/>
 </div>
 
 ---
 
+## 💭 Daily Inspiration
+
 <div align="center">
-
-## 💭 Dev Quote of the Day
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=First%20solve%20the%20problem%20then%20write%20the%20code&author=John%20Johnson" alt="Quote"/>
 </div>
 
 ---
 
+## 🤝 Let's Connect & Create Magic Together!
+
 <div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📧-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+        <br>
+        <a href="mailto:shaikhajmal50@gmail.com">shaikhajmal50@gmail.com</a>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🌐-Portfolio-FF7F50?style=for-the-badge&logo=firefox&logoColor=white"/>
+        <br>
+        <a href="https://ajmalshaikh04.github.io/portfolio-v1/">Visit Portfolio</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📱-Phone-4ECDC4?style=for-the-badge&logo=phone&logoColor=white"/>
+        <br>
+        +91 9004323098
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📍-Location-FF6B6B?style=for-the-badge&logo=location&logoColor=white"/>
+        <br>
+        Mumbai, Maharashtra, India
+      </td>
+    </tr>
+  </table>
+</div>
 
-## 🤝 Let's Connect & Collaborate!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Let's%20Build%20Something%20Amazing%20Together!&fontSize=16&fontColor=fff&animation=twinkling" alt="Footer"/>
+</div>
 
-*Open to exciting opportunities and innovative projects*
+<div align="center">
+  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Ajmal%20Shaikh-FF6B6B?style=for-the-badge&logo=heart&logoColor=white"/>
+</div>
 
-📧 **Email**: [shaikhajmal50@gmail.com](mailto:shaikhajmal50@gmail.com)  
-🌐 **Portfolio**: [ajmalshaikh04.github.io](https://ajmalshaikh04.github.io/portfolio-v1/)  
-💼 **LinkedIn**: [linkedin.com/in/ajmalshaikh04](https://www.linkedin.com/in/ajmalshaikh04/)  
-📱 **Phone**: +91 9004323098  
-📍 **Location**: Mumbai, Maharashtra, India
-
-<br>
-
-*⚡ "First, solve the problem. Then, write the code." – John Johnson*
-
-<br>
-
-[![Made with ❤️ by Ajmal](https://img.shields.io/badge/Made%20with%20❤️%20by-Ajmal%20Shaikh-red?style=for-the-badge)](https://github.com/ajmalshaikh04)
-
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
